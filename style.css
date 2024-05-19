@@ -1,0 +1,35 @@
+body{
+    background-image: url(217797.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: aliceblue;
+  text-align: center;
+}
+#about{
+text-align: justify;
+color: aliceblue;
+}
+.navbar ul{
+background-color: gray;
+list-style-type: none;
+text-align: center;
+padding: 0;
+margin: 0;
+overflow: hidden;
+}
+.navbar a{
+    color: white;
+
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.navbar li{
+    float: left;
+}
